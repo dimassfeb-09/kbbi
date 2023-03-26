@@ -3,9 +3,10 @@ package kbbi
 import (
 	"encoding/json"
 	"errors"
-	"github.com/dimassfeb-09/kbbi.git/entity"
 	"io"
 	"net/http"
+
+	"github.com/dimassfeb-09/kbbi/entity"
 )
 
 func Search(keyword string) (*entity.ResponseKBBI, error) {

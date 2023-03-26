@@ -1,3 +1,3 @@
-module github.com/dimassfeb-09/kbbi.git
+module github.com/dimassfeb-09/kbbi
 
 go 1.19

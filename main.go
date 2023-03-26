@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	kbbi "github.com/dimassfeb-09/kbbi.git/kbbi"
 	"log"
+
+	kbbi "github.com/dimassfeb-09/kbbi/kbbi"
 )
 
 func main() {
